@@ -8,7 +8,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:windswept_forest": "2025-03-12 23:09:16 +0100",
-      "minecraft:windswept_hills": "2025-03-12 23:18:22 +0100"
+      "minecraft:windswept_hills": "2025-03-12 23:18:22 +0100",
+      "minecraft:plains": "2025-03-13 00:03:47 +0100"
     },
     "done": false
   },
@@ -427,6 +428,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "melon_stem": "2025-03-13 00:01:22 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/green_dye": {
     "criteria": {
       "has_cactus": "2025-03-12 23:59:42 +0100"
@@ -445,9 +452,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "apple": "2025-03-13 00:01:31 +0100"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2025-03-12 23:59:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-03-13 00:01:31 +0100"
     },
     "done": true
   },
